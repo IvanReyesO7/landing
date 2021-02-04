@@ -1,0 +1,11 @@
+.banner{
+  background-position: center;
+  padding: 200px;
+  background-size: cover;
+  color: white;
+  text-shadow: seagreen;
+}
+
+.container p{
+  margin-bottom: 32px;
+}
